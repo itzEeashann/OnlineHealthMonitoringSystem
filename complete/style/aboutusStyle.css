@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('../images/Pic13.jpg');
+    /* background-color: #fed3c2; */
+    background-size: cover;
+    /* display: flex;
+    align-items: flex-end;
+    justify-content: center; */
+}
+
+.Sec_Title{
+    text-align:center;
+    font-size: 150%;
+    margin: 0px 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    /* font-size: 4vmin; */
+}
+
+.Contact_us{
+    text-align: center;
+    font-size: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}

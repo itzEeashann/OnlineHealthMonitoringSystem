@@ -1,0 +1,69 @@
+html {
+	width: 100%;
+}
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+}
+
+body{
+    width: 100vw;
+    height: 130vh;
+    /* background-image: url('../images/Pic13.jpg'); */
+	background-color: #fed3c2;
+    background-size: cover;
+    /* display: flex;
+    align-items: flex-end;
+    justify-content: center; */
+}
+
+.Third_Title{
+    text-align: center;
+	font-size: 180%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* font-size:  4vmin; */
+}
+
+/* .serviceOne{
+	text-align: center;
+	float: right;
+	margin-right: 150px;
+} */
+
+.container{
+	display: flex;
+	align-items: center; 
+	justify-content:center;
+}
+
+.container2{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.container3{
+	display: flex;
+	align-items: center; 
+	justify-content:center;
+}
+
+.serviceName1{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 100%;
+	/* text-align: center; */
+}
+
+.serviceName2{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 100%;
+	text-align: right;
+}
+
+.serviceName3{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 100%;
+	/* text-align: right; */
+}

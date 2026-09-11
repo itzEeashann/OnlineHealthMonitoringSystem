@@ -1,6 +1,5 @@
 # Online Health Monitoring System
 
-The Online Health Monitoring System was created as part of our Web Development Module's assignment. 
 
 ### Purpose
 
